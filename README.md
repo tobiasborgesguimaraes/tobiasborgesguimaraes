@@ -23,7 +23,7 @@ I'm a self-taught programming student with good knowledge of Python, creating ap
 
 ### 🧑‍💻 About me
 
-I began my coding journey at the beggining of 2023, if the CS50 Harvard Course. With this course's help, I started programming in C, learned about basic Data Structures like Linked Lists and Hash Tables, and Algorithms like Binary Search and Merge Sort. But due to the classes and study routine, I wasn't able to decidade myself as much as I wanted, but since October 2023 I started coding again if a more dedicaded routine, but since November 2023 I started putting all of my efforst to study programming.
+I began my coding journey at the beggining of 2023, if the CS50 Harvard Course. With this course's help, I started programming in C, learned about basic Data Structures like Linked Lists and Hash Tables, and Algorithms like Binary Search and Merge Sort. But due to the classes and study routine, I wasn't able to decidade myself as much as I wanted, but since October 2023 I started coding again with a more dedicaded routine, and after November 2023 I started putting all of my efforst to study programming.
 
 
 
